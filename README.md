@@ -1,4 +1,4 @@
-# Image-Based-Plant-Disease-Detector-
+# Image-Based-Plant-Disease-Detector
 
 ![Plant Disease Detector](https://images.saymedia-content.com/.image/t_share/MTc0MzU0NDg3NTYwMzE2MjY0/plant-diseases-that-affect-cucumbers-and-how-to-treat-them.jpg)
 
