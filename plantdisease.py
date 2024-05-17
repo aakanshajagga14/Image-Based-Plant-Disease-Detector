@@ -10,7 +10,7 @@ from roboflow import Roboflow
 # Function to make API request to Roboflow model
 def get_prediction(image_path):
     # Replace 'YOUR_MODEL_API_ENDPOINT' with the actual API endpoint of your Roboflow model
-    rf = Roboflow(api_key="4hcMhArALJwWNtDdJ5DF")
+    rf = Roboflow(api_key="add API key")
     project = rf.workspace().project("plant-disease-detector")
     model = project.version(1).model
 
